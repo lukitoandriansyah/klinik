@@ -60,5 +60,4 @@ public class Karyawan {
         this.alamat = alamat;
     }
 
-
 }

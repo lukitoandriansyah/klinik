@@ -1,5 +1,6 @@
 package com.empat.klinik.model.Dto;
 
+
 public class DefaultResponse {
     private Boolean status;
     private String pesan;

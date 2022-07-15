@@ -47,6 +47,7 @@ public class LoginController {
     }
 
     /*Cek karyawan berdasarkan NIK*/
+    //need rev//
     @GetMapping("/byid/{nik}")
     public DefaultResponse getByIdKaryawan(@PathVariable String nik) {
         DefaultResponse df = new DefaultResponse();
